@@ -6,12 +6,12 @@ Each project focuses on applying deep learning concepts to different types of da
 
 ## Projects Overview
 
-| No. | Project | Approach |
-|---|---|---|---|
-| 1 | Image Classification | CNN |
-| 2 | Image Classification Using Pretrained Models | Transfer Learning |
-| 3 | Text Classification Using BERT | Transformer |
-| 4 | Audio Classification | Audio Deep Learning | CNN on Spectrograms |
+| No. | Project | Approach |<br>
+|---|---|---|---|<br>
+| 1 | Image Classification | CNN | <br>
+| 2 | Image Classification Using Pretrained Models | Transfer Learning |<br>
+| 3 | Text Classification Using BERT | Transformer |<br>
+| 4 | Audio Classification | Audio Deep Learning | CNN on Spectrograms |<br>
 | 5 | Tabular Classification | Structured Data | Neural Network |
 
 ## Projects and Datasets
